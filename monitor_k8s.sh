@@ -1,4 +1,10 @@
 #!/bin/bash
+#---------------------------------------------------------
+#Script reporting the PODs deployed and their state   
+#during ONAP instantiation on K8s
+#A. Soleil - TMobile - 2018 - alain.soleil1@t-mobile.com
+#Simply run the script on the rancher node, no aparameters
+#---------------------------------------------------------
 
 display_frame ()
 {
